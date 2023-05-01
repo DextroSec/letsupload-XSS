@@ -1,7 +1,7 @@
 # letsupload-XSS
 A simple xss, simmlar to the anonfiles xss but its letsupload.cc XSS
 
-To deploy this project run
+# how to install
 
 ```bash
 git clone https://github.com/DextroSec/letsupload-XSS/tree/main
