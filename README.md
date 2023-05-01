@@ -1,5 +1,5 @@
 # letsupload-XSS
-A simple xss, simmlar to the anonfiles xss but its letsupload.cc XSS
+A simple xss, simmlar to the anonfiles xss but on the domain letsupload.cc
 
 # how to install
 
